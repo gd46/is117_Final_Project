@@ -106,6 +106,14 @@ textarea {
 	background-image: url("../img/chalkboard_bg.jpg");
 	height: 300px
 }
+#personalized_tutoring {
+	width: 250px;
+	margin: 20px;
+	text-align: center;
+}
+.fa {
+	font-size: 73px;
+}
 
 
 
