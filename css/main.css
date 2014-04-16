@@ -90,7 +90,18 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
+#branding {
+	height: 80px;
+}
+#primary_links {
+	float: right;
+	margin-right: 60px;
+}
+#primary_links ul li {
+	display: inline;
+	margin-left: 40px;
+	line-height: 80px;
+}
 #banner {
 	background-image: url("../img/chalkboard_bg.jpg");
 	height: 300px
