@@ -205,7 +205,17 @@ textarea {
 	text-indent: 50px;
 	margin: 20px;
 }
-
+#subjects_section {
+	width: 100%;
+	float:left;
+}
+#subjects_section h1 {
+	text-align:center;
+}
+#subjects_table {
+	margin-left:auto;
+	margin-right:auto;
+}
 
 
 
