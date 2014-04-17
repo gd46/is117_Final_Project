@@ -92,6 +92,7 @@ textarea {
    ========================================================================== */
 #branding {
 	height: 80px;
+	background-color: #00538a;
 }
 #primary_links {
 	float: right;
@@ -104,10 +105,10 @@ textarea {
 }
 #primary_links ul li a {
 	text-decoration: none;
-	color: #737373;
+	color: white;
 }
 #primary_links ul li a:hover {
-	color: #00bf00;
+	color: #f58220;
 }
 #banner {
 	background-image: url("../img/chalkboard_bg.jpg");
@@ -185,6 +186,7 @@ textarea {
 }
 .fa {
 	font-size: 73px;
+	color: #f58220;
 }
 
 
