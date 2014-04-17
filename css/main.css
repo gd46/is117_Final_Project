@@ -116,10 +116,15 @@ textarea {
   	-webkit-box-shadow: inset 0 0 40px #000000;
   	box-shadow:         inset 0 0 40px #000000;
 }
+#slogan {
+	float: left;
+	margin: 38px 400px 38px 72px;
+	color: white;
+}	
 #contact-info {
 	background-color: rgba(0,0,0,.5);
 	color: white;
-	float: right;
+	float: left;
 	width: 247px;
 	text-align: center;
 	padding: 1px;
