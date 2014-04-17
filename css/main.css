@@ -106,21 +106,32 @@ textarea {
 	background-image: url("../img/chalkboard_bg.jpg");
 	height: 300px
 }
+#quick_links {
+	margin-left: auto;
+	margin-right: auto;
+	width: 1048px;
+}
 #personalized_tutoring {
 	width: 250px;
-	margin: 20px;
+	margin: 40px 8px 0px 0px;
 	text-align: center;
 	float:left;
 }
 #subjects {
 	width: 250px;
-	margin: 20px;
+	margin: 40px 8px 0px 8px;
 	text-align:center;
 	float:left;
 }
 #payment {
 	width: 250px;
-	margin: 20px;
+	margin: 40px 8px 0px 8px;
+	text-align: center;
+	float: left;
+}
+#testimonials {
+	width: 250px;
+	margin: 40px 0px 0px 8px;
 	text-align: center;
 	float: left;
 }
