@@ -134,7 +134,7 @@ textarea {
 }
 #grade {
 	float: left;
-	line-height: 68px;
+	line-height: 222px;
 	margin-right: 50px;
 	color: white;
 	font-size: 102px;
@@ -216,7 +216,11 @@ textarea {
 	margin-left:auto;
 	margin-right:auto;
 }
-
+#subjects_section .table {
+	width:50%;
+	margin-left: auto;
+	margin-right: auto;
+}
 
 
 
