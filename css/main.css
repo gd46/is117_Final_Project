@@ -116,10 +116,17 @@ textarea {
   	-webkit-box-shadow: inset 0 0 40px #000000;
   	box-shadow:         inset 0 0 40px #000000;
 }
+@font-face
+{
+	font-family: chalk;
+	src: url(../fonts/chalk.ttf);
+}
 #slogan {
 	float: left;
 	margin: 38px 400px 38px 72px;
 	color: white;
+	font-family: chalk;
+	font-size: 20px;
 }	
 #contact-info {
 	background-color: rgba(0,0,0,.5);
