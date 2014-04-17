@@ -118,6 +118,12 @@ textarea {
 	text-align:center;
 	float:left;
 }
+#payment {
+	width: 250px;
+	margin: 20px;
+	text-align: center;
+	float: left;
+}
 .fa {
 	font-size: 73px;
 }
