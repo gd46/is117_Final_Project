@@ -123,11 +123,24 @@ textarea {
 }
 #slogan {
 	float: left;
-	margin: 38px 400px 38px 72px;
+	margin: 38px 120px 38px 72px;
 	color: white;
 	font-family: chalk;
 	font-size: 20px;
-}	
+}
+#grade {
+	float: left;
+	line-height: 68px;
+	margin-right: 50px;
+	color: white;
+	font-size: 102px;
+	font-family: chalk;
+	-webkit-transform: rotate(-24deg);
+	-moz-transform: rotate(-24deg);
+	-ms-transform: rotate(-24deg);
+	-o-transform: rotate(-24deg);
+
+}
 #contact-info {
 	background-color: rgba(0,0,0,.5);
 	color: white;
@@ -136,6 +149,7 @@ textarea {
 	text-align: center;
 	padding: 1px;
 	margin-top: 40px;
+	margin-left: 120px;
 }
 #contact-info a{
 	color: white;
