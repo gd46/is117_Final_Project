@@ -116,6 +116,18 @@ textarea {
   	-webkit-box-shadow: inset 0 0 40px #000000;
   	box-shadow:         inset 0 0 40px #000000;
 }
+#contact-info {
+	background-color: rgba(0,0,0,.5);
+	color: white;
+	float: right;
+	width: 247px;
+	text-align: center;
+	padding: 1px;
+	margin-top: 40px;
+}
+#contact-info a{
+	color: white;
+}
 #quick_links {
 	margin-left: auto;
 	margin-right: auto;
