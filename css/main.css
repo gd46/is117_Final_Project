@@ -102,6 +102,13 @@ textarea {
 	margin-left: 40px;
 	line-height: 80px;
 }
+#primary_links ul li a {
+	text-decoration: none;
+	color: #737373;
+}
+#primary_links ul li a:hover {
+	color: #00bf00;
+}
 #banner {
 	background-image: url("../img/chalkboard_bg.jpg");
 	height: 300px;
