@@ -275,7 +275,10 @@ body {
 	margin-left: 5%;
 }
 #footer ul {
-	margin: 2% 0 2% 25%;
+	margin: 0 0 1% 25%;
+}
+#footer p{
+	text-align:center;
 }
 
 
