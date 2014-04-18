@@ -231,13 +231,33 @@ body {
 	display: inline-block;
 	background-color: #f5f5f5;
 }
-#payment_section h1,h3,ul {
+#payment_section h1,ul {
 	text-align:center;
 	list-style-type: none;
+}
+#payment_section h3 {
+	text-align:center;
 }
 #payment_section li {
 	font-size: 20px;
 }
+#testimonials_section {
+	width: 100%;
+	display: inline-block;
+	background-color: white;
+}
+#testimonials_section h1{
+	text-align:center;
+}
+#testimonials_section p{
+	text-indent: 5%;
+	display: inline-block;
+}
+#testimonials_section .person h3 {
+	float:left;
+	margin-left: 1%;
+}
+
 
 
 
