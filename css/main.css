@@ -92,6 +92,11 @@ textarea {
    ========================================================================== */
 #wrapper {
 	width: 1280px;
+	margin-left:auto;
+	margin-right: auto;
+}
+body {
+	background-color: #29563E;
 }
 #branding {
 	height: 80px;
@@ -159,14 +164,13 @@ textarea {
 	color: white;
 }
 #quick_links {
-	margin-left: auto;
-	margin-right: auto;
-	width: 1048px;
-	clear: both;
+	width: 1280px;
+	background-color: white;
+	height: 319px;
 }
 #personalized_tutoring {
 	width: 250px;
-	margin: 40px 8px 0px 0px;
+	margin: 40px 8px 0px 10%;
 	text-align: center;
 	float:left;
 }
@@ -208,6 +212,7 @@ textarea {
 #subjects_section {
 	width: 100%;
 	float:left;
+	background-color:white;
 }
 #subjects_section h1 {
 	text-align:center;
