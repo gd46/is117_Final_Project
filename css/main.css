@@ -152,7 +152,8 @@ body {
 
 }
 #contact-info {
-	background-color: rgba(0,0,0,.5);
+	font-family: chalk;
+	font-size: 20px;
 	color: white;
 	float: left;
 	width: 247px;
@@ -273,6 +274,9 @@ body {
 #footer ul li {
 	display: inline;
 	margin-left: 5%;
+}
+#footer ul li a{
+	color: #737373;
 }
 #footer ul {
 	margin: 0 0 1% 20%;
