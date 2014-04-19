@@ -103,6 +103,10 @@ body {
 	height: 80px;
 	background-color: #00538a;
 }
+#logo {
+	float: left;
+	margin: 10px 0 10px 50px;
+}
 #primary_links {
 	float: right;
 	margin-right: 60px;
