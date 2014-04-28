@@ -88,7 +88,7 @@ textarea {
 }
 
 /* ==========================================================================
-   Author's custom styles
+   Author's Custom Styles
    ========================================================================== */
 #wrapper {
 	width: 1280px;
@@ -174,43 +174,10 @@ body {
 	background-color: white;
 	height: 340px;
 }
-#personalized_tutoring {
-	width: 250px;
-	margin: 40px 8px 0px 10%;
-	text-align: center;
-	float:left;
-}
-#subjects {
-	width: 250px;
-	margin: 40px 8px 0px 8px;
-	text-align:center;
-	float:left;
-}
 #payment {
 	width: 250px;
 	margin: 40px 8px 0px 8px;
-	text-align: center;
 	float: left;
-}
-#testimonials {
-	width: 250px;
-	margin: 40px 0px 0px 8px;
-	text-align: center;
-	float: left;
-}
-.fa {
-	font-size: 73px;
-	color: black;
-}
-.white {
-	width: 100%;
-	display: inline-block;
-	background-color: white;
-}
-.grey {
-	background-color: #f5f5f5;
-	width: 100%;
-	display: inline-block;
 }
 #subjects_section h1, #personalized_tutoring_section h1, #payment_section h1, #testimonials_section h1 {
 	text-align:center;
@@ -263,9 +230,40 @@ body {
 	text-align:center;
 }
 
+/* ==========================================================================
+   End of Custom Styles
+   ========================================================================== */
 
-
-
+/* ==========================================================================
+    My  Custom Classes
+   ========================================================================== */
+  
+.fa {
+	font-size: 73px;
+	color: black;
+}
+.white {
+	width: 100%;
+	display: inline-block;
+	background-color: white;
+}
+.grey {
+	background-color: #f5f5f5;
+	width: 100%;
+	display: inline-block;
+}
+.center{
+	text-align: center;
+	width: 250px;
+	margin: 40px 8px 0px 8px;
+	float:left;
+}
+.first {
+	margin: 40px 8px 0px 10%;
+}
+/* ==========================================================================
+   End of Custom Classes
+   ========================================================================== */
 
 
 /* ==========================================================================
