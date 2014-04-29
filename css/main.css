@@ -197,6 +197,11 @@ body {
 #payment_section li {
 	font-size: 20px;
 }
+#testimonials_section {
+	overflow-y: scroll;
+	height: 300px;
+	display: block;
+}
 #testimonials_section .person {
 	margin-left: 2%;
 	margin-right: 2%;
