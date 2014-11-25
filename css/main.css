@@ -183,7 +183,7 @@ body {
 	text-align: left;
 	color: #00538a;
 }
-#personalized_tutoring_section p, #payment_section p, #testimonials_section p{
+#personalized_tutoring_section p, #payment_section p{
 	text-align: left;
 	text-indent: 5%;
 	margin: 20px;
@@ -205,6 +205,21 @@ body {
 #testimonials_section .person {
 	margin-left: 2%;
 	margin-right: 2%;
+}
+blockquote {
+  quotes: "“" "”";
+  border-left: none;
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 3em;
+  line-height: 0.1em;
+  vertical-align: -0.4em;
+}
+blockquote p{
+  margin-left: 30px;
+  font-style: italic;
 }
 #footer h3 {
 	text-align: center;
